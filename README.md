@@ -1,0 +1,2 @@
+# PHP-Learning-A-to-Z
+ Choosing a Text Editor ,Hello World & Setup ,Writing HTML , Variables , Data Types , Working With Strings , Working With Numbers, Getting User Input ,Building a Basic Calculator, Building a Mad Libs Game , URL Parameters , POST vs GET ,Arrays, Using Checkboxes ,Associative Arrays ,Functions , Return Statements , If Statements , If Statements (con't) , Building a Better Calculator , Switch Statements ,While Loops , For Loops ,Comments , Including HTML, Include: PHP, Classes & Objects , Constructors,Object Functions ,Getters & Setters , Inheritance
